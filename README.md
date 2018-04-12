@@ -1,4 +1,21 @@
-# Swift_Projects
-This repository contains a collection of Swift iOS projects.
+# Swift Projects
 
-      All rights and lefts reserved.
+This repository contains a collection of Swift iOS projects while I was taking a bootcamp with [CodePath](https://codepath.com/).
+
+
+  - Apps
+      - [Instagram](https://github.com/ZhipengMei/Swift_Projects/tree/master/Apps/Instagram)
+      - [MovieView](https://github.com/ZhipengMei/Swift_Projects/tree/master/Apps/MovieView)
+      - [Tipsy Tip Calculator](https://github.com/ZhipengMei/Swift_Projects/tree/master/Apps/Tipsy-Tip-CalculatorTwitter)
+      - [Twitter](https://github.com/ZhipengMei/Swift_Projects/tree/master/Apps/codepath-TwitterYelp)
+      - [Yelp](https://github.com/ZhipengMei/Swift_Projects/tree/master/Apps/codepath-Yelp)
+      - []()
+      - []()
+      
+  - iOS mini Projects
+      - [FirebaseUserLogin](https://github.com/ZhipengMei/Swift_Projects/tree/master/iOS%20mini%20Projects/FirebaseUserLogin)
+      - [InstaPics]()
+      - [Bounce](https://github.com/ZhipengMei/Swift_Projects/tree/master/iOS%20mini%20Projects/Bounce)
+      - [Gesture Animation](https://github.com/ZhipengMei/Swift_Projects/tree/master/iOS%20mini%20Projects/gestureAnimationLab
+      - [Color]()
+      
